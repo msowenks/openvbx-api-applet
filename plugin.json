@@ -1,0 +1,6 @@
+{
+    "name" : "Call logger",
+    "author" : "sinneduy",
+    "description" : "Logs calls coming into VBX to a specified URL",
+    "url" : "http://github.com/sinneduy"
+}
