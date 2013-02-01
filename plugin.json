@@ -1,5 +1,5 @@
 {
-    "name" : "Call logger",
+    "name" : "OpenVBX API applet",
     "author" : "sinneduy",
     "description" : "Logs calls coming into VBX to a specified URL",
     "url" : "http://github.com/sinneduy"
